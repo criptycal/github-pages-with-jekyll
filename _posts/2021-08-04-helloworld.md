@@ -2,5 +2,5 @@ quick draft
 
 ---
 title: "My blog title"
-date: 08-04-2021
+date: 2021-08-04
 ---
